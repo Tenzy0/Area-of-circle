@@ -1,0 +1,6 @@
+list1=[4,-2,-89,34,3,-10,52]
+
+print("Positive numbers are:")
+for number in list1:
+    if number >= 0:
+        print(number)
